@@ -7,11 +7,11 @@ public class Tournament {
 
     public static void main(String[] args) {
 
-        double playerPerMatch = 2;
-        double playerCount = 8;
-        int noOfRounds = (int) Math.floor(Math.log(playerCount) / Math.log(playerPerMatch));
+        final int playerPerMatch = 2; //not necessarily a const
+        int playerCount = 8;
+        int noOfRounds = (int) (Math.floor(Math.log(playerCount) / Math.log(playerPerMatch)));
 
-        ArrayList<Player>[] brackets = new ArrayList<>[noOfRounds];
+        ArrayList<Player>[] brackets = new ArrayList[noOfRounds];
 
         for (int i = 0; i < noOfRounds; i++) {
             brackets[i] = new ArrayList<>();
