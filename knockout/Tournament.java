@@ -13,9 +13,11 @@ public class Tournament {
 
         ArrayList<Player>[] brackets = new ArrayList[noOfRounds];
 
+
         for (int i = 0; i < noOfRounds; i++) {
             brackets[i] = new ArrayList<>();
         }
+
 
 //        System.out.println(Arrays.toString(brackets));
 
