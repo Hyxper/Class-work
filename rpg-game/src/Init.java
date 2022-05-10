@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Init {
@@ -12,7 +13,9 @@ public class Init {
 
         Character playerCharacter = assignClass.getClass(desiredClass);
 
-        playerCharacter.getName();
-        playerCharacter.getAttributes();
+        playerCharacter.printName();
+        playerCharacter.printAttributes();
+
+        System.out.println(Arrays.toString(playerCharacter.getAttributes()));
     }
 }
