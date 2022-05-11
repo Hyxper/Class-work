@@ -6,6 +6,7 @@ public class Warrior extends Character{
         dexterity = 4;
         intellect = 2;
         characterClass = "Warrior";
+        bio = "Warrior smash stuff";
     }
 
 

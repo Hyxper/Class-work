@@ -15,6 +15,7 @@ public class Init {
 
         playerCharacter.printName();
         playerCharacter.printAttributes();
+        System.out.println(playerCharacter.bio);
 
         System.out.println(Arrays.toString(playerCharacter.getAttributes()));
     }

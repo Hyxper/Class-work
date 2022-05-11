@@ -2,9 +2,10 @@ import java.lang.reflect.Array;
 import java.util.Scanner;
 
 abstract class Character {
-    String charName = null;
+    String charName = null, bio = null;
     protected String characterClass = null;
     Integer strength = null, dexterity = null, intellect = null;
+
 
     abstract void setAttributes();
 

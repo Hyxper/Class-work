@@ -5,6 +5,9 @@ import java.util.Scanner;
  using factory design pattern
  ***/
 
+// maybe consider dependency injection
+// look at stream library
+
 public class AssignClass {
 
     public Character getClass (String className) {
