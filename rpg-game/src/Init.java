@@ -5,18 +5,20 @@ public class Init {
 
     public static void main(String[] args){
 
-        Scanner input = new Scanner(System.in);
-        System.out.print("Please enter your desired class: ");
-        String desiredClass = input.nextLine();
+//        Scanner input = new Scanner(System.in);
+//        System.out.print("Please enter your desired class: ");
+//        String desiredClass = input.nextLine();
+//
+//        AssignClass assignClass = new AssignClass();
+//
+//        Character playerCharacter = assignClass.getClass(desiredClass);
 
-        AssignClass assignClass = new AssignClass();
+//        playerCharacter.printName();
+//        playerCharacter.printAttributes();
+//        System.out.println(playerCharacter.bio);
+//        System.out.println(Arrays.toString(playerCharacter.getAttributes()));
 
-        Character playerCharacter = assignClass.getClass(desiredClass);
+        Adventure.getInstance();
 
-        playerCharacter.printName();
-        playerCharacter.printAttributes();
-        System.out.println(playerCharacter.bio);
-
-        System.out.println(Arrays.toString(playerCharacter.getAttributes()));
     }
 }
