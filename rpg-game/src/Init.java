@@ -18,7 +18,9 @@ public class Init {
 //        System.out.println(playerCharacter.bio);
 //        System.out.println(Arrays.toString(playerCharacter.getAttributes()));
 
-        Adventure.getInstance();
+           Adventure adventure = Adventure.getInstance();
+
+
 
     }
 }

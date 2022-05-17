@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fac85fe-70e5-4a27-bb0f-8987670f1ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../rpg-game/src/Adventure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rpg-game/src/Scenario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpg-game/out/production/rpg-game/AssignClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rpg-game/out/production/rpg-game/AssignClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpg-game/out/production/rpg-game/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rpg-game/out/production/rpg-game/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpg-game/out/production/rpg-game/Init.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rpg-game/out/production/rpg-game/Init.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpg-game/src/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rpg-game/src/Adventure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rpg-game/src/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rpg-game/src/Init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpg-game/src/Scenario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rpg-game/src/Scenario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;H:/Class-work/lecture3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "H:/Class-work/rpg-game"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Init" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Init" />
@@ -91,27 +94,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1652277058166">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652277058166" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1652277058166">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652277058166" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1652277058166">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652277058166" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1652277058166">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652277058166" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1652274481040">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1652274481040" />
   </component>
 </project>

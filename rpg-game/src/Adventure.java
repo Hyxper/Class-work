@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 
@@ -21,9 +22,22 @@ public class Adventure {
             }
         }
 
+        levels = new Scenario[levelCount];
+
+
+       for (int i = 0; i < levels.length; i++) {
+
+           Math.random();
+
+           levels[i] = new Crypt();
 
 
 
+       }
+    }
+
+    public void printer(){
+        System.out.println("yo");
     }
 
     public static Adventure getInstance(){
@@ -32,6 +46,7 @@ public class Adventure {
         }
         return adventure;
     }
+
 
 
 }
